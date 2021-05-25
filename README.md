@@ -2,8 +2,6 @@
 #### Authors : [William Green](https://github.com/aficionadoai), [Gavita Regunath](https://github.com/aero-girl),[Thomas Meli](https://github.com/ThomasMeli/ThomasMeli), [Qingtao Zhou](https://github.com/qingtaozhou)
 
 ## Overview 
-![Uploading Overview.png…]()
-
-![](overview.png)
+![](Overview.png)
 
 
